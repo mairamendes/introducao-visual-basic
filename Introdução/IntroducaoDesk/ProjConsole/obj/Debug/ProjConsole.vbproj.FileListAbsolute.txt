@@ -1,0 +1,12 @@
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\ProjConsole\bin\Debug\ProjConsole.exe.config
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\ProjConsole\bin\Debug\ProjConsole.exe
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\ProjConsole\bin\Debug\ProjConsole.pdb
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\ProjConsole\bin\Debug\ProjConsole.xml
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\ProjConsole\obj\Debug\ProjConsole.vbproj.AssemblyReference.cache
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\ProjConsole\obj\Debug\ProjConsole.Resources.resources
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\ProjConsole\obj\Debug\ProjConsole.vbproj.GenerateResource.cache
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\ProjConsole\obj\Debug\ProjConsole.vbproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\ProjConsole\obj\Debug\ProjConsole.exe
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\ProjConsole\obj\Debug\ProjConsole.xml
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\ProjConsole\obj\Debug\ProjConsole.pdb
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\ProjConsole\obj\Debug\ProjConsole.exe.config

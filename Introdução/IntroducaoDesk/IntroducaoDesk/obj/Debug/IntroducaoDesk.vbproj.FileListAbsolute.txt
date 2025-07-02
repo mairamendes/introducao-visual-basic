@@ -1,0 +1,10 @@
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\IntroducaoDesk\obj\Debug\IntroducaoDesk.vbproj.AssemblyReference.cache
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\IntroducaoDesk\obj\Debug\IntroducaoDesk.vbproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\IntroducaoDesk\bin\Debug\IntroducaoDesk.exe.config
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\IntroducaoDesk\bin\Debug\IntroducaoDesk.exe
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\IntroducaoDesk\bin\Debug\IntroducaoDesk.pdb
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\IntroducaoDesk\obj\Debug\IntroducaoDesk.exe
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\IntroducaoDesk\obj\Debug\IntroducaoDesk.pdb
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\IntroducaoDesk\obj\Debug\IntroducaoDesk.exe.config
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\IntroducaoDesk\obj\Debug\IntroducaoDesk.Form1.resources
+C:\Users\maira.silva\Desktop\Projetos VB\Introdução\IntroducaoDesk\IntroducaoDesk\obj\Debug\IntroducaoDesk.vbproj.GenerateResource.cache

@@ -1,0 +1,14 @@
+C:\Users\maira.silva\Desktop\Projetos VB\ProjetoCadastroAccess\ProjetoCadastroAccess\bin\Release\ProjetoCadastroAccess.exe.config
+C:\Users\maira.silva\Desktop\Projetos VB\ProjetoCadastroAccess\ProjetoCadastroAccess\bin\Release\ProjetoCadastroAccess.exe
+C:\Users\maira.silva\Desktop\Projetos VB\ProjetoCadastroAccess\ProjetoCadastroAccess\bin\Release\ProjetoCadastroAccess.pdb
+C:\Users\maira.silva\Desktop\Projetos VB\ProjetoCadastroAccess\ProjetoCadastroAccess\bin\Release\ProjetoCadastroAccess.xml
+C:\Users\maira.silva\Desktop\Projetos VB\ProjetoCadastroAccess\ProjetoCadastroAccess\obj\Release\ProjetoCadastroAccess.vbproj.AssemblyReference.cache
+C:\Users\maira.silva\Desktop\Projetos VB\ProjetoCadastroAccess\ProjetoCadastroAccess\obj\Release\ProjetoCadastroAccess.frmCadClientes.resources
+C:\Users\maira.silva\Desktop\Projetos VB\ProjetoCadastroAccess\ProjetoCadastroAccess\obj\Release\ProjetoCadastroAccess.Resources.resources
+C:\Users\maira.silva\Desktop\Projetos VB\ProjetoCadastroAccess\ProjetoCadastroAccess\obj\Release\ProjetoCadastroAccess.Tela2.resources
+C:\Users\maira.silva\Desktop\Projetos VB\ProjetoCadastroAccess\ProjetoCadastroAccess\obj\Release\ProjetoCadastroAccess.vbproj.GenerateResource.cache
+C:\Users\maira.silva\Desktop\Projetos VB\ProjetoCadastroAccess\ProjetoCadastroAccess\obj\Release\ProjetoCadastroAccess.vbproj.CoreCompileInputs.cache
+C:\Users\maira.silva\Desktop\Projetos VB\ProjetoCadastroAccess\ProjetoCadastroAccess\obj\Release\ProjetoCadastroAccess.exe
+C:\Users\maira.silva\Desktop\Projetos VB\ProjetoCadastroAccess\ProjetoCadastroAccess\obj\Release\ProjetoCadastroAccess.xml
+C:\Users\maira.silva\Desktop\Projetos VB\ProjetoCadastroAccess\ProjetoCadastroAccess\obj\Release\ProjetoCadastroAccess.pdb
+C:\Users\maira.silva\Desktop\Projetos VB\ProjetoCadastroAccess\ProjetoCadastroAccess\obj\Release\ProjetoCadastroAccess.exe.config
