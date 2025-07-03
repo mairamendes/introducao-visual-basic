@@ -3,26 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\maira.silva\\Desktop\\Projetos VB\\ProjetoCadastroAccess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEFB9074-697F-491C-879E-0315121EFCED}|ProjetoCadastroAccess\\ProjetoCadastroAccess.vbproj|C:\\Users\\maira.silva\\Desktop\\Projetos VB\\ProjetoCadastroAccess\\projetocadastroaccess\\frmcadclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{DEFB9074-697F-491C-879E-0315121EFCED}|ProjetoCadastroAccess\\ProjetoCadastroAccess.vbproj|solutionrelative:projetocadastroaccess\\frmcadclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maira.silva\\Desktop\\Projetos VB\\ProjetoCadastroAccess\\ProjetoCadastroAccess\\frmCadClientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoCadastroAccess\\frmCadClientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEFB9074-697F-491C-879E-0315121EFCED}|ProjetoCadastroAccess\\ProjetoCadastroAccess.vbproj|C:\\Users\\maira.silva\\Desktop\\Projetos VB\\ProjetoCadastroAccess\\projetocadastroaccess\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{DEFB9074-697F-491C-879E-0315121EFCED}|ProjetoCadastroAccess\\ProjetoCadastroAccess.vbproj|solutionrelative:projetocadastroaccess\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maira.silva\\Desktop\\Projetos VB\\ProjetoCadastroAccess\\ProjetoCadastroAccess\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoCadastroAccess\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ProjetoCadastroAccess||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maira.silva\\Desktop\\Projetos VB\\ProjetoCadastroAccess\\ProjetoCadastroAccess\\frmCadClientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoCadastroAccess\\frmCadClientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEFB9074-697F-491C-879E-0315121EFCED}|ProjetoCadastroAccess\\ProjetoCadastroAccess.vbproj|C:\\Users\\maira.silva\\Desktop\\Projetos VB\\ProjetoCadastroAccess\\projetocadastroaccess\\cadastrodataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
-      "RelativeMoniker": "D:0:0:{DEFB9074-697F-491C-879E-0315121EFCED}|ProjetoCadastroAccess\\ProjetoCadastroAccess.vbproj|solutionrelative:projetocadastroaccess\\cadastrodataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEFB9074-697F-491C-879E-0315121EFCED}|ProjetoCadastroAccess\\ProjetoCadastroAccess.vbproj|C:\\Users\\maira.silva\\Desktop\\Projetos VB\\ProjetoCadastroAccess\\projetocadastroaccess\\frmcadclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{DEFB9074-697F-491C-879E-0315121EFCED}|ProjetoCadastroAccess\\ProjetoCadastroAccess.vbproj|solutionrelative:projetocadastroaccess\\frmcadclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEFB9074-697F-491C-879E-0315121EFCED}|ProjetoCadastroAccess\\ProjetoCadastroAccess.vbproj|c:\\users\\maira.silva\\desktop\\projetos vb\\projetocadastroaccess\\projetocadastroaccess\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|eda661ea-dc61-4750-b3a5-f6e9c74060f5"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maira.silva\\Desktop\\Projetos VB\\ProjetoCadastroAccess\\ProjetoCadastroAccess\\cadastroDataSet.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoCadastroAccess\\cadastroDataSet.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 149,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,19 +34,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProjetoCadastroAccess",
-              "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\Projetos VB\\ProjetoCadastroAccess\\ProjetoCadastroAccess\\ProjetoCadastroAccess.vbproj",
-              "RelativeDocumentMoniker": "ProjetoCadastroAccess\\ProjetoCadastroAccess.vbproj",
-              "ToolTip": "C:\\Users\\maira.silva\\Desktop\\Projetos VB\\ProjetoCadastroAccess\\ProjetoCadastroAccess\\ProjetoCadastroAccess.vbproj",
-              "RelativeToolTip": "ProjetoCadastroAccess\\ProjetoCadastroAccess.vbproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-02T13:42:13.322Z",
-              "EditorCaption": ""
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
@@ -64,8 +46,7 @@
               "RelativeToolTip": "ProjetoCadastroAccess\\App.config",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-07-02T13:41:12.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T13:41:12.386Z"
             },
             {
               "$type": "Document",
@@ -82,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "frmCadClientes.vb [Design]",
               "DocumentMoniker": "C:\\Users\\maira.silva\\Desktop\\Projetos VB\\ProjetoCadastroAccess\\ProjetoCadastroAccess\\frmCadClientes.vb",
               "RelativeDocumentMoniker": "ProjetoCadastroAccess\\frmCadClientes.vb",
@@ -101,8 +82,7 @@
               "ToolTip": "C:\\Users\\maira.silva\\Desktop\\Projetos VB\\ProjetoCadastroAccess\\ProjetoCadastroAccess\\cadastroDataSet.xsd",
               "RelativeToolTip": "ProjetoCadastroAccess\\cadastroDataSet.xsd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2025-07-02T11:10:18.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T11:10:18.507Z"
             }
           ]
         }
